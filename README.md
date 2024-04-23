@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 | Header1 | Header2 | Header3 | 
 | ------- | ------- | ------- | 
 | cell1 | cell2 | cell3 | 
-| cell4 | 
-| cell5 | cell6 |
+| cell4 |||
+| cell5 || cell6 |
